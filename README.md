@@ -1,6 +1,6 @@
 # AI-Coursework
 
-Here are the projects that I worked on in the Fall 2022 iteration of CS188 - Introduction to Artificial Intelligence.
+Here are the projects that I worked on in the Fall 2022 iteration of CS188 - Introduction to Artificial Intelligence.  Project specs/descriptions can be found in the website below:
 
 https://inst.eecs.berkeley.edu/~cs188/fa22/
 
